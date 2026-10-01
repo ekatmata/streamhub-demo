@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "StreamHub",
+    "slug": "streamhub-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0E1217"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.streamhub"
+    },
+    "android": {
+      "package": "com.example.streamhub"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
